@@ -1,4 +1,4 @@
 source "https://rubygems.org"
-source "https://rizzo.airgap.us/content/repositories/gems/"
+
 gem 'sinatra'
 gem 'agmockgem', '0.0.7'
